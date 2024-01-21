@@ -5,3 +5,4 @@ fool
 /pointer
 /hadoop
 /squash
+/pin
