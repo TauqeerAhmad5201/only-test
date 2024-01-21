@@ -6,3 +6,4 @@ fool
 /hadoop
 /squash
 /pin
+/realm
