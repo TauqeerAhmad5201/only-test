@@ -4,3 +4,4 @@ data
 fool
 /pointer
 /hadoop
+/squash
